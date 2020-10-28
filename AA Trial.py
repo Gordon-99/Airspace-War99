@@ -5,7 +5,6 @@ import myclass
 
 
 
-
 pygame.init()
 screen_size = width, height = 480, 700                 #窗体尺寸
 screen = pygame.display.set_mode(screen_size)
